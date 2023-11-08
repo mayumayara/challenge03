@@ -8,8 +8,8 @@ From [the Explore programming scholl](https://www.rocketseat.com.br/explorer) by
 
 In this challenge, I had to recreate a form of a layout to practice what I learned in the class of Stage 03.
 
-## Project layout
+## Challenge layout
 
 ![layout_figma_challenge_02](https://github.com/mayumayara/images-in-redeme0/assets/120471137/400e8dbd-ed9f-4e57-adef-ad76d8052cfd)
 
-The project in Figma is at this [link](https://www.figma.com/file/zTvlbpavAkiAPf8rwJKbN3/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)?type=design&node-id=0%3A1&mode=design&t=viRVjwodPITEChX7-1).
+The challenge in Figma is at this [link](https://www.figma.com/file/zTvlbpavAkiAPf8rwJKbN3/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)?type=design&node-id=0%3A1&mode=design&t=viRVjwodPITEChX7-1).
